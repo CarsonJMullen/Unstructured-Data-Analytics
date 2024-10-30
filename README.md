@@ -4,6 +4,6 @@
 
 **Assignment 2:** Building a Crowdsourced Recommender System for Beers
 
-**Final Project:** WIP
+**Final Project:** Election Coverage Bias in News Media
 
 **Contributors:** Ethan Wong, Timmy Ren, Mason Shu, Medha Nalamada, Carson Mullen, Bethel Kim
